@@ -11,5 +11,3 @@ payload:
   - DOMAIN-SUFFIX,twitter.jp
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,x.com
-
-
