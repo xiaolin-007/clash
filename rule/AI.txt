@@ -48,3 +48,11 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN,guzzoni.apple.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,apple-relay.mask.apple-dns.net
+  - DOMAIN,apple-relay.fastly-edge.com
+  - DOMAIN,apple-relay.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,cp4.cloudflare.com
