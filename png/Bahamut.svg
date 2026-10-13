@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <!-- 蝴蝶结：粉 → 紫 -->
+    <linearGradient id="bow" x1="10" y1="20" x2="56" y2="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0"   stop-color="#FF2D6F"/>
+      <stop offset="0.5" stop-color="#F324C8"/>
+      <stop offset="1"   stop-color="#A24BF5"/>
+    </linearGradient>
+    <!-- 主盒子：青 → 蓝 -->
+    <linearGradient id="box" x1="18" y1="62" x2="62" y2="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0"   stop-color="#00D2D8"/>
+      <stop offset="1"   stop-color="#1E9BF0"/>
+    </linearGradient>
+    <!-- 小盒子：绿 → 黄 → 橙 -->
+    <linearGradient id="side" x1="9" y1="21" x2="7" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0"   stop-color="#4FD16A"/>
+      <stop offset="0.45" stop-color="#FFC400"/>
+      <stop offset="1"   stop-color="#FF7A00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 蝴蝶结 左环 -->
+  <path d="M30 17 C25 8 20 1.5 15 4.5 C9.5 7.5 10.5 16 14 19.2 C17.5 22.3 26 20.3 30 17 Z"
+        fill="none" stroke="url(#bow)" stroke-width="6.2" stroke-linejoin="round"/>
+  <!-- 蝴蝶结 右环 -->
+  <path d="M34 17 C39 8 45 1 50.5 4 C56 7 55 16 51 19.2 C47 22.3 38 20.3 34 17 Z"
+        fill="none" stroke="url(#bow)" stroke-width="6.2" stroke-linejoin="round"/>
+  <!-- 结心 -->
+  <path d="M29.5 17.5 L34.5 17.5" fill="none" stroke="url(#bow)"
+        stroke-width="7" stroke-linecap="round"/>
+
+  <!-- 左侧小盒子 -->
+  <path d="M14.3 22 L2.2 28 L4.6 57.6 L15.3 60"
+        fill="none" stroke="url(#side)" stroke-width="5.2"
+        stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M14.3 22 L15.3 60" fill="none" stroke="url(#side)" stroke-width="5.2"
+        stroke-linecap="round"/>
+
+  <!-- 主盒子外框 -->
+  <rect x="19.6" y="22" width="40.6" height="37.6" rx="5.5"
+        fill="none" stroke="url(#box)" stroke-width="5.4"/>
+
+  <!-- 笑脸：眼睛 -->
+  <rect x="32.3" y="30.8" width="5.4" height="9.8" rx="2.7" fill="#17A6E8"/>
+  <rect x="46.1" y="30.8" width="5.4" height="9.8" rx="2.7" fill="#17A6E8"/>
+  <!-- 笑脸：嘴巴 -->
+  <path d="M36 44.6 L42.6 49.6 L49.2 44.6"
+        fill="none" stroke="#17A6E8" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
