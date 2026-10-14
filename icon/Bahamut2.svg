@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="61.766354"
+   height="61.46114"
+   viewBox="0 0 61.766354 61.46114"
+   version="1.1"
+   id="svg14"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       id="linearGradient22"
+       x1="10"
+       y1="20"
+       x2="56"
+       y2="4"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#FF2D6F"
+         id="stop20" />
+      <stop
+         offset="0.40041023"
+         stop-color="#F324C8"
+         id="stop21" />
+      <stop
+         offset="1"
+         stop-color="#A24BF5"
+         id="stop22" />
+    </linearGradient>
+    <!-- 蝴蝶结：粉 → 紫 -->
+    <linearGradient
+       id="bow"
+       x1="10"
+       y1="20"
+       x2="56"
+       y2="4"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#FF2D6F"
+         id="stop1" />
+      <stop
+         offset="0.5"
+         stop-color="#F324C8"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#A24BF5"
+         id="stop3" />
+    </linearGradient>
+    <!-- 主盒子：青 → 蓝 -->
+    <linearGradient
+       id="box"
+       x1="18"
+       y1="62"
+       x2="59.917896"
+       y2="20.881517"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94187842,0,0,0.94120664,-0.40560571,5.4434669)">
+      <stop
+         offset="0"
+         stop-color="#00D2D8"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#1E9BF0"
+         id="stop5" />
+    </linearGradient>
+    <!-- 小盒子：绿 → 黄 → 橙 -->
+    <linearGradient
+       id="side"
+       x1="9"
+       y1="21"
+       x2="7"
+       y2="60"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#4FD16A"
+         id="stop6" />
+      <stop
+         offset="0.45"
+         stop-color="#FFC400"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#FF7A00"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#side"
+       id="linearGradient14"
+       gradientUnits="userSpaceOnUse"
+       x1="9"
+       y1="21"
+       x2="7"
+       y2="60"
+       gradientTransform="matrix(0.83211274,-0.07060745,0.07060745,0.83211274,-1.6364093,8.7271277)" />
+    <linearGradient
+       xlink:href="#side"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       x1="9"
+       y1="21"
+       x2="7"
+       y2="60"
+       gradientTransform="matrix(0.84534252,-0.09383454,0.09383454,0.84534252,-2.758466,8.0050087)" />
+    <linearGradient
+       xlink:href="#linearGradient22"
+       id="linearGradient16"
+       gradientUnits="userSpaceOnUse"
+       x1="10"
+       y1="20"
+       x2="49.608093"
+       y2="5.8717203"
+       gradientTransform="matrix(0.82182229,-0.07027864,0.07027864,0.82182229,4.4947028,5.3256671)" />
+    <linearGradient
+       xlink:href="#bow"
+       id="linearGradient17"
+       gradientUnits="userSpaceOnUse"
+       x1="10"
+       y1="20"
+       x2="56"
+       y2="4"
+       gradientTransform="matrix(0.82391672,0.03862887,-0.03862887,0.82391672,5.6078464,3.1618137)" />
+  </defs>
+  <!-- 蝴蝶结 左环 -->
+  <path
+     d="m 15.069739,6.4699936 c -1.452398,2.1882137 -2.363731,5.2914384 -3.429354,10.4357284 1.860928,0.0445 5.563502,1.204078 10.460536,1.799094 3.559892,0.432546 3.682298,0.84191 4.309927,-1.444492 0.910197,-3.315771 4.270896,-2.881798 0.756098,-5.421588 C 25.290472,10.482796 21.541057,8.5599233 19.699622,7.5846917 17.832557,6.5958866 16.375898,5.7688983 15.069739,6.4699936 Z"
+     fill="none"
+     stroke="url(#bow)"
+     stroke-width="5.1139"
+     stroke-linejoin="round"
+     id="path8"
+     style="stroke:url(#linearGradient17)" />
+  <!-- 蝴蝶结 右环 -->
+  <path
+     d="m 29.809405,13.926017 c 1.441399,-3.212232 8.773105,-7.7596021 10.997499,-9.2853238 3.459665,-2.3729986 4.447062,-2.7903717 5.929577,-0.9527255 1.628755,2.0189159 2.204303,3.1984015 3.129072,4.8563853 3.439489,6.166536 3.959419,3.770334 -6.208774,7.612831 -2.881033,1.088725 -7.667908,3.024944 -10.352586,2.590834 -1.469923,-0.237685 -1.997607,-3.235005 -3.494788,-4.822001 z"
+     fill="none"
+     stroke="url(#bow)"
+     stroke-width="5.1139"
+     stroke-linejoin="round"
+     id="path9"
+     style="stroke:url(#linearGradient16)" />
+  <!-- 结心 -->
+  <!-- 左侧小盒子 -->
+  <path
+     d="m 10.483791,25.0647 -8.3125439,6.806248 4.087051,24.46108 9.0730639,1.241571"
+     fill="none"
+     stroke="url(#side)"
+     stroke-width="4.34253"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="path11"
+     style="stroke:url(#linearGradient14)" />
+  <path
+     d="M 11.149261,25.040997 15.805345,57.28989"
+     fill="none"
+     stroke="url(#side)"
+     stroke-width="4.42278"
+     stroke-linecap="round"
+     id="path12"
+     style="stroke:url(#linearGradient15)" />
+  <!-- 主盒子外框 -->
+  <path
+     d="m 52.914091,22.295115 c -0.17518,-0.0075 -1.573442,0.104454 -1.752511,0.114754 l -30.758817,1.031186 c -2.865105,0.165895 -3.111196,0.208715 -2.889171,3.074872 l 4.122674,30.137294 c 0.146598,2.866156 1.856161,2.211451 4.721265,2.045556 l 28.276453,-2.277801 c 2.865105,-0.165895 4.728243,-0.189322 4.581645,-3.055479 l -0.332868,-28.87397 c -0.137435,-2.687023 -0.749199,-2.34986 -5.96867,-2.196412 z"
+     style="fill:none;stroke:url(#box);stroke-width:5.08432"
+     id="path18" />
+  <!-- 笑脸：眼睛 -->
+  <rect
+     x="29.687138"
+     y="30.109524"
+     width="5.256434"
+     height="9.5394535"
+     rx="2.628217"
+     fill="#17a6e8"
+     id="rect13"
+     transform="rotate(0.57357293)"
+     style="stroke-width:0.973414" />
+  <rect
+     x="44.059212"
+     y="29.999763"
+     width="5.256434"
+     height="9.5394535"
+     rx="2.628217"
+     fill="#17a6e8"
+     id="rect14"
+     transform="rotate(0.41920095)"
+     style="stroke-width:0.973414" />
+  <!-- 笑脸：嘴巴 -->
+  <path
+     d="m 33.920406,44.678331 6.691217,4.493391 6.137001,-5.224955"
+     fill="none"
+     stroke="#17a6e8"
+     stroke-width="4.86707"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path14" />
+</svg>
