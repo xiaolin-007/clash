@@ -15,6 +15,7 @@ payload:
   - DOMAIN,notebooklm.google.com
   - DOMAIN,sydney.bing.com
   - DOMAIN-SUFFIX,ai.azure.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,bard.google.com
